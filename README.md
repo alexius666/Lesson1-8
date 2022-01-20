@@ -1,2 +1,2 @@
-# Lesson1-8
+# Synergy1-8
 Temperature converter
